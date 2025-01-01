@@ -1,7 +1,7 @@
 # Object Detection for Small, Dense, and Overlapped Objects in Industrial Recycling
 
-This repository contains the code and dataset for detecting small, dense, and overlapping objects in industrial recycling processes. The focus is on enhancing object detection accuracy in challenging industrial settings using deep learning-based methods.
-    ### will be available soon.
+### will be available soon...
+This repository contains the code and dataset for detecting small, dense, and overlapping objects in industrial recycling processes. The focus is on enhancing object detection accuracy in challenging industrial settings using deep learning-based 
 ## Features
 
 - **Dataset**: 10,000+ images and 120,000+ object instances (7 object classes).
